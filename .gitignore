@@ -1,0 +1,8 @@
+# Arquivos gerados durante a compilação
+cobol-lexer
+*.o
+*.d
+
+# Arquivos temporários de editores e do sistema
+*~
+.DS_Store
